@@ -19,7 +19,7 @@ It leverages transfer learning and image preprocessing techniques to achieve hig
 
 ```
 deep_fake_project/
-├── Dataset/                 # Image dataset (not pushed to GitHub)
+├── Dataset/                 # Image dataset
 ├── app.py                  # Flask app for prediction
 ├── model_build.py          # Model architecture
 ├── model_train.py          # Training script
